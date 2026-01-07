@@ -42,8 +42,7 @@ jobs:
 
       # Build the book
       - name: Build the book
-        run: |
-          jupyter-book build website/ 
+        run: jupyter-book build website/ --verbose
 
       # https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#publishing-with-a-custom-github-actions-workflow
 
