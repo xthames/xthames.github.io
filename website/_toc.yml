@@ -2,10 +2,10 @@
 # Learn more at https://jupyterbook.org/customize/toc.html
 
 format: jb-book
-root: intro.md
+root: intro
 parts:
 - chapters:
-  - file: CV/index.md
+  - file: CV/index
   #- file: GraduateStudentResources/GraduateStudentResources.md
   #  sections:
   #  - file: GraduateStudentResources/ApplyingForDepartmentFunds.md
