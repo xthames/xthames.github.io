@@ -5,7 +5,7 @@ format: jb-book
 root: intro.md
 parts:
 - chapters:
-  - file: CV
+  - file: CV/index.md
   #- file: GraduateStudentResources/GraduateStudentResources.md
   #  sections:
   #  - file: GraduateStudentResources/ApplyingForDepartmentFunds.md
