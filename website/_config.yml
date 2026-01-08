@@ -4,7 +4,6 @@
 
 title: Table of Contents
 author: Alexander Thames
-  pronouns: "he/him"
 copyright: "2026"  # Copyright year to be placed in the footer
 logo: "" 
 theme: jekyll-theme-tactile
@@ -53,4 +52,17 @@ html:
   use_issues_button: true
   use_repository_button: true
   allow_embed: true
+  extra_navbar: |
+    <div style="margin-top: 10px;">
+      <a href="https://scholar.google.com/citations?user=YOUR_USER_ID" target="_blank" style="margin-right: 15px;">
+        <i class="ai ai-google-scholar ai-2x"></i>
+      </a>
+    </div>
+  extra_footer: |
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+
+sphinx:
+  config:
+    html_js_files:
+      - https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css
 
