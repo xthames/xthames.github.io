@@ -5,7 +5,6 @@ format: jb-book
 root: index
 parts:
 - chapters:
-  - file: Bio/index
   - file: Publications/index
   - file: Projects/index 
   - file: CV/index
