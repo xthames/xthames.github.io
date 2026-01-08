@@ -53,7 +53,3 @@ html:
   use_repository_button: true
   allow_embed: true
 
-# include the /pdfs folder in the webpage
-sphinx:
-  config:
-    html_extra_path: ["pdfs"]
