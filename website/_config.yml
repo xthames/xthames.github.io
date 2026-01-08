@@ -52,3 +52,8 @@ html:
   use_issues_button: true
   use_repository_button: true
   allow_embed: true
+
+# copy non-.md, .ipynb files too
+sphinx:
+  config:
+    html_extra_path: ['pdfs']
