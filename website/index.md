@@ -9,12 +9,18 @@
   <a href="https://www.linkedin.com/in/alexander-b-thames/" target="_blank" style="margin-right: 10px;">
     <i class="fa-brands fa-linkedin"></i>
   </a>
+  <a href="https://github.com/xthames" target="_blank" style="margin-right: 10px;">
+    <i class="fa-brands fa-github"></i>
+  </a>
   <a href="https://scholar.google.com/citations?user=kkgRMgsAAAAJ" target="_blank" style="margin-right: 10px; color: #4285F4;">
     <i class="ai ai-google-scholar"></i>
   </a>
   <a href="https://orcid.org/0000-0003-4044-2471" target="_blank" style="margin-right: 10px; color: #a7cf36;">
     <i class="ai ai-orcid"></i>
   </a>
+  <a href="https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Thames%2C%20Alexander%22&l=list&p=1&s=10&sort=bestmatch" target="_blank" style="margin-right: 10px; color: #1d96e3">
+    <i class="ai ai-zenodo"></i>
+  </a>
 </div>
 
-##### test
+test
