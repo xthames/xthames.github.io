@@ -35,7 +35,9 @@ jobs:
     
     # Build the book
     - name: Build the book
-      run: jupyter-book build --all website/
+      run: |
+        jupyter-book clean website/
+        jupyter-book build --all website/
     
     # Deploy to GH-pages only if the build succeeds
     - name: Deploy to GitHub Pages
