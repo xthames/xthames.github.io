@@ -56,4 +56,4 @@ html:
 # include the /pdfs folder in the webpage
 sphinx:
   config:
-    html_extra_path: ['./pdfs']
+    html_extra_path: ["pdfs"]
