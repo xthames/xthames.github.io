@@ -5,19 +5,7 @@ format: jb-book
 root: index
 parts:
 - chapters:
+  - file: Bio/index
+  - file: Publications/index
+  - file: Projects/index 
   - file: CV/index
-  #- file: GraduateStudentResources/GraduateStudentResources.md
-  #  sections:
-  #  - file: GraduateStudentResources/ApplyingForDepartmentFunds.md
-  #  - file: GraduateStudentResources/Courses.md
-  #  - file: GraduateStudentResources/Housing.md
-  #  - file: GraduateStudentResources/Reimbursement_Expensing.md
-  #  - file: GraduateStudentResources/Who_to_contact_for.md
-  #- file: Training/Training.md
-  #  sections:
-  #  - file: Training/GettingStartedWithROARCollab.md
-  #  - file: Training/SubmittingJobs.md
-  #  - file: Training/Parallelization.md
-  #- file: Contributing/Contributing.md
-  #  sections:
-  #  - file: Contributing/Instructions.md
