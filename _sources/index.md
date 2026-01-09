@@ -3,7 +3,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
 <div style="text-align: center; margin: 20px 0;"> 
-  <img src="_static/images/abt.png" alt="Alexander B. Thames" style="width: 200px; border-radius: 50%; margin-bottom: 20px;">
+  <img src="_static/images/abt.png" alt="Alexander B. Thames" style="width: 400px; border-radius: 50%; margin-bottom: 0px;">
 
   <div style="font-size: 2em; margin: 20px 0;">
     <a href="mailto:alexander.b.thames@gmail.com" target="_blank" style="margin-right: 10px; color: #EA4335; text-decoration: none;">
