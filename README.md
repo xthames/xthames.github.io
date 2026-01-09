@@ -1,3 +1,3 @@
 # xthames.github.io
 
-Welcome!
+A GitHub repository to host my personal website.
