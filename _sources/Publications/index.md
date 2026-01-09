@@ -1,15 +1,15 @@
 # Publications
 
 ### Active Manuscripts
-######`swxg`: A Python Library for Generalized Multivariate, Multisite, Copula-Based Stochastic Weather Generation
+###### `swxg`: A Python Library for Generalized Multivariate, Multisite, Copula-Based Stochastic Weather Generation
 **Thames, A.B.**, Hadjimichael, A., and Quinn, J.D.  
 *Journal of Open Research Software*. In Review.
 
-######[Reconciling Coupled Thermal-Water Evolution Models of Earth with Observations through Variable Regassing Efficiency](https://doi.org/10.22541/essoar.176703295.50952019/v1)  
+###### [Reconciling Coupled Thermal-Water Evolution Models of Earth with Observations through Variable Regassing Efficiency](https://doi.org/10.22541/essoar.176703295.50952019/v1)  
 **Thames, A.B.** and Foley, B.J.  
 *Journal of Geophysical Research: Solid Earth*. Submitted, in pre-print.
 
-######Climate Sensitivity of Agricultural Water Demand Depends on Control Over Growing Season: Implications for Producers in the Upper Colorado River Basin  
+###### Climate Sensitivity of Agricultural Water Demand Depends on Control Over Growing Season: Implications for Producers in the Upper Colorado River Basin  
 **Thames, A.B.**, Hadjimichael, A., and Quinn, J.D.  
 *Water Resources Research*. Submitted.
 
