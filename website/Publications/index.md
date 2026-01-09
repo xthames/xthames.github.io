@@ -68,4 +68,4 @@ Fuchs, H., Novelli, A., Rolletter, M., Hofzumahaus, A., Pfannerstill, E.Y., Kess
 
 ---
 
-*You can find more published material outside of just these manuscripts in my [CV]("../CV/index.md").*
+*You can find more published material outside of just these manuscripts in my CV.*
