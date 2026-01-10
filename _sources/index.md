@@ -33,10 +33,10 @@
 ###### Interests
  * Decision-Making under Deep Uncertainty
  * Exploratory Modeling
- * Natural-Human Systems
- * Climate Change and its Impacts
+ * Natural-Human Systems/Climate Change and its Impacts
  * Risk, especially from Natural Catastrophes and Hazards
  * Numerical and Statistical Modeling, Physics-Based Simulation
+ * Data Science
 
 ###### Education
  * **PhD**, Geosciences with Climate Science Dual-Title. 2025. _The Pennsylvania State University_.
