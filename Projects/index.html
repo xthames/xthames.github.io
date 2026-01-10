@@ -374,6 +374,7 @@ document.write(`
                 <ul class="visible nav section-nav flex-column">
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#swxg"><code class="docutils literal notranslate"><span class="pre">swxg</span></code></a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#wxfcst"><code class="docutils literal notranslate"><span class="pre">wxfcst</span></code></a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#blasteroids">Blasteroids</a></li>
 </ul>
             </nav>
         </div>
@@ -388,7 +389,7 @@ document.write(`
   <section id="projects">
 <h1>Projects<a class="headerlink" href="#projects" title="Link to this heading">#</a></h1>
 <hr class="docutils" />
-<p><img alt="Distributions of observed and generated precipitation and temperature" src="../_images/swxg.svg" />{width=50%}</p>
+<p><img alt="Distributions of observed and generated precipitation and temperature" src="../_images/swxg.svg" /></p>
 <section id="swxg">
 <h2><a class="reference external" href="https://github.com/xthames/swxg"><code class="docutils literal notranslate"><span class="pre">swxg</span></code></a><a class="headerlink" href="#swxg" title="Link to this heading">#</a></h2>
 <p><code class="docutils literal notranslate"><span class="pre">swxg</span></code> is a Python library for generalized multivariate, multisite, copula-based stochastic weather generation. It addresses the challenge of generating realistic, spatially- and temporally-correlated precipitation and temperature data for water resources planning and climate vulnerability assessments. The library uses semiparametric fitting for precipitation via Gaussian mixture hidden Markov models, followed by conditional copula-based temperature generation. <code class="docutils literal notranslate"><span class="pre">swxg</span></code> includes comprehensive validation tools to assess goodness of fit and ensure generated weather is statistically indistinguishable from observations. The software is openly available on GitHub under an MIT license and is designed for flexible integration into exploratory modeling frameworks, making it suitable for diverse hydroclimatic applications requiring synthetic weather data across multiple sites.</p>
@@ -397,7 +398,13 @@ document.write(`
 </section>
 <section id="wxfcst">
 <h2><a class="reference external" href="https://github.com/xthames/wxfcst"><code class="docutils literal notranslate"><span class="pre">wxfcst</span></code></a><a class="headerlink" href="#wxfcst" title="Link to this heading">#</a></h2>
-<p>Accurate sub-grid weather forecasting remains a critical challenge, particularly with local applications where discrepancies in precipitation and temperature forecasts can exacerbate issues related to water resource management. Numerical weather prediction models, like the National Weather Service’s High-Resolution Rapid Refresh, offer precision at regional scales but struggle to resolve sub-grid spatial variability. To address this, a regression-based artificial neural network that links forecasts to observations from a personal weather station was constructed. The artificial neural network achieved an R^2^ of 0.951, leading to substantially improved forecasting skill in the predicted precipitation and slightly improved skill in the predicted temperature when compared to the raw forecast. The artificial neural network shows highest skill at longer lead times for precipitation and shorter lead times for temperature. While a small number of precipitation samples and possible model overfitting warrant further investigation, this methodology is shown to be accessible, computationally efficient, and scalable, offering significant potential for local weather forecasting applications.</p>
+<p>Accurate sub-grid weather forecasting remains a critical challenge, particularly with local applications where discrepancies in precipitation and temperature forecasts can exacerbate issues related to water resource management. Numerical weather prediction models, like the National Weather Service’s High-Resolution Rapid Refresh, offer precision at regional scales but struggle to resolve sub-grid spatial variability. To address this, a regression-based artificial neural network that links forecasts to observations from a personal weather station was constructed. The artificial neural network achieved an R<sup>2</sup> of 0.951, leading to substantially improved forecasting skill in the predicted precipitation and slightly improved skill in the predicted temperature when compared to the raw forecast. The artificial neural network shows highest skill at longer lead times for precipitation and shorter lead times for temperature. While a small number of precipitation samples and possible model overfitting warrant further investigation, this methodology is shown to be accessible, computationally efficient, and scalable, offering significant potential for local weather forecasting applications.</p>
+<hr class="docutils" />
+<p><img alt="" src="../_images/blasteroids.png" /></p>
+</section>
+<section id="blasteroids">
+<h2><a class="reference external" href="https://github.com/xthames/space_shmup">Blasteroids</a><a class="headerlink" href="#blasteroids" title="Link to this heading">#</a></h2>
+<p>Blasteroids is a simple shmup set in space about blowing up progressively more rocks while avoiding enemy aliens to achieve your highest score. A loving pastiche of the Asteroids, made as a practice project to enhance my dev skills. Development is paused while I think of any new interesting thing to add to the project. <a class="reference external" href="https://coleslaw-abt.itch.io/blasteroids">Check out its itch.io page to play the game!</a></p>
 <hr class="docutils" />
 </section>
 </section>
@@ -468,6 +475,7 @@ document.write(`
     <ul class="visible nav section-nav flex-column">
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#swxg"><code class="docutils literal notranslate"><span class="pre">swxg</span></code></a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#wxfcst"><code class="docutils literal notranslate"><span class="pre">wxfcst</span></code></a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#blasteroids">Blasteroids</a></li>
 </ul>
   </nav></div>
 
