@@ -41,4 +41,4 @@ I am a geoscientist and climate scientist with doctoral experience in developing
  * **PhD**, Geosciences with Climate Science Dual-Title. 2025. _The Pennsylvania State University_.
  * **BSc**, Physics with Mathematics minor. 2015. _The Pennsylvania State University_.
 
-###### [CV](CV/index)
+###### [Find my CV here](CV/index)
