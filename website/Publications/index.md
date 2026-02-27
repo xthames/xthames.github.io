@@ -7,11 +7,11 @@
 
 ###### [Reconciling Coupled Thermal-Water Evolution Models of Earth with Observations through Variable Regassing Efficiency](https://doi.org/10.22541/essoar.176703295.50952019/v1)  
 **Thames, A.B.** and Foley, B.J.  
-*Journal of Geophysical Research: Solid Earth*. Submitted, in pre-print.
+*Journal of Geophysical Research: Solid Earth*. In Review.
 
-###### Climate Sensitivity of Agricultural Water Demand Depends on Control Over Growing Season: Implications for Producers in the Upper Colorado River Basin  
+###### [Climate Sensitivity of Agricultural Water Demand Depends on Control Over Growing Season: Implications for Producers in the Upper Colorado River Basin](https://doi.org/10.22541/essoar.176840902.22785610/v1)  
 **Thames, A.B.**, Hadjimichael, A., and Quinn, J.D.  
-*Water Resources Research*. Submitted.
+*Water Resources Research*. In Review.
 
 ### Published Manuscripts
 ###### [An observation-based, reduced-form model for oxidation in the remote marine troposphere](https://doi.org/10.1073/pnas.2209735120)
