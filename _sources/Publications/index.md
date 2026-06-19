@@ -1,10 +1,6 @@
 # Publications
 
 ### Active Manuscripts
-###### `swxg`: A Python Library for Generalized Multivariate, Multisite, Copula-Based Stochastic Weather Generation
-**Thames, A.B.**, Hadjimichael, A., and Quinn, J.D.  
-*Journal of Open Research Software*. In Press.
-
 ###### [Reconciling Coupled Thermal-Water Evolution Models of Earth with Observations through Variable Regassing Efficiency](https://doi.org/10.22541/essoar.176703295.50952019/v1)  
 **Thames, A.B.** and Foley, B.J.  
 *Journal of Geophysical Research: Solid Earth*. In Review.
@@ -14,6 +10,10 @@
 *Water Resources Research*. In Review.
 
 ### Published Manuscripts
+###### [`swxg`: A Python Library for Generalized Multivariate, Multisite, Copula-Based Stochastic Weather Generation](https://doi.org/10.5334/jors.651)
+**Thames, A.B.**, Hadjimichael, A., and Quinn, J.D.  
+*Journal of Open Research Software*, 14(1), 47.
+
 ###### [An observation-based, reduced-form model for oxidation in the remote marine troposphere](https://doi.org/10.1073/pnas.2209735120)
 Baublitz, C.B., Fiore, A.M., Ludwig, S.M., Nicely, J.M., Wolfe, G.M., Murray, L.T., Commane, R., Prather, M.J., Anderson, D.C., Correa, G., Duncan, B.N., Follette-Cook, M., Westervelt, D.M., Bourgeois, I., Brune, W.H., Bui, T.P., DiGangi, J.P., Diskin, G.S., Hall, S.R., McKain, K., Miller, D.O., Peischl, J., **Thames, A.B.**, Thompson, C.R., Ullmann, K., and Wofsy, S.C.  
 2023. *Proceedings of the National Academy of Sciences*, 120(34), e2209735120.
