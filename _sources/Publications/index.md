@@ -1,15 +1,15 @@
 # Publications
 
 ### Active Manuscripts
-###### [Reconciling Coupled Thermal-Water Evolution Models of Earth with Observations through Variable Regassing Efficiency](https://doi.org/10.22541/essoar.176703295.50952019/v1)  
-**Thames, A.B.** and Foley, B.J.  
-*Journal of Geophysical Research: Solid Earth*. In Review.
-
 ###### [Climate Sensitivity of Agricultural Water Demand Depends on Control Over Growing Season: Implications for Producers in the Upper Colorado River Basin](https://doi.org/10.22541/essoar.176840902.22785610/v1)  
 **Thames, A.B.**, Hadjimichael, A., and Quinn, J.D.  
 *Water Resources Research*. In Review.
 
 ### Published Manuscripts
+###### [Reconciling Coupled Thermal-Water Evolution Models of Earth with Observations through Variable Regassing Efficiency](https://doi.org/10.1029/2025JB033701)  
+**Thames, A.B.** and Foley, B.J.  
+*Journal of Geophysical Research: Solid Earth, 131,* e2025JB033701.
+
 ###### [`swxg`: A Python Library for Generalized Multivariate, Multisite, Copula-Based Stochastic Weather Generation](https://doi.org/10.5334/jors.651)
 **Thames, A.B.**, Hadjimichael, A., and Quinn, J.D.  
 *Journal of Open Research Software*, 14(1), 47.

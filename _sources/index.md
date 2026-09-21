@@ -27,11 +27,11 @@
   </div>
 </div>
 
-I am a geoscientist and climate scientist with doctoral experience in developing tools and methodologies to support assessments of deep uncertainty, particularly for geophysical models and climate change impact analyses on natural-human systems like agriculture. I have expertise in large ensemble exploratory modeling in the context of understanding novel system interactions, informing decision-making and risk, high-performance computing, and data science/analytics.
+I am a geoscientist and climate scientist with doctoral experience in developing tools and methodologies to support assessments of deep uncertainty, particularly for geophysical models and climate change impact analyses on natural-human systems. Expertise in large ensemble exploratory modeling in the context of understanding novel system interactions, informing decision-making and risk, high-performance computing, and experimental atmospheric chemistry and physics.
 
 ###### Interests
  * Exploratory Modeling of Earth/Natural-Human Systems
- * Climate Change and its Impacts
+ * Climate Change and its Impacts, especially resulting from aerosols like refractory black carbon (rBC)
  * Decision-Making under Deep Uncertainty
  * Risk, especially from Natural Catastrophes and Hazards
  * Numerical and Statistical Modeling, Physics-Based Simulation
