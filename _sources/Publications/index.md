@@ -1,18 +1,17 @@
 # Publications
 
-### Active Manuscripts
-###### [Climate Sensitivity of Agricultural Water Demand Depends on Control Over Growing Season: Implications for Producers in the Upper Colorado River Basin](https://doi.org/10.22541/essoar.176840902.22785610/v1)  
-**Thames, A.B.**, Hadjimichael, A., and Quinn, J.D.  
-*Water Resources Research*. In Review.
-
 ### Published Manuscripts
+###### [Climate Sensitivity of Agricultural Water Demand Depends on Control Over Growing Season: Implications for Producers in the Upper Colorado River Basin](https://doi.org/10.1029/2026WR043402)
+**Thames, A.B.**, Hadjimichael, A., and Quinn, J.D. 
+2026. *Water Resources Research*, 62, e2026WR043402. https://doi-org.ezaccess.libraries.psu.edu/10.1029/2026WR043402
+
 ###### [Reconciling Coupled Thermal-Water Evolution Models of Earth with Observations through Variable Regassing Efficiency](https://doi.org/10.1029/2025JB033701)  
 **Thames, A.B.** and Foley, B.J.  
-*Journal of Geophysical Research: Solid Earth, 131,* e2025JB033701.
+2026. *Journal of Geophysical Research: Solid Earth, 131,* e2025JB033701.
 
 ###### [`swxg`: A Python Library for Generalized Multivariate, Multisite, Copula-Based Stochastic Weather Generation](https://doi.org/10.5334/jors.651)
 **Thames, A.B.**, Hadjimichael, A., and Quinn, J.D.  
-*Journal of Open Research Software*, 14(1), 47.
+2026. *Journal of Open Research Software*, 14(1), 47.
 
 ###### [An observation-based, reduced-form model for oxidation in the remote marine troposphere](https://doi.org/10.1073/pnas.2209735120)
 Baublitz, C.B., Fiore, A.M., Ludwig, S.M., Nicely, J.M., Wolfe, G.M., Murray, L.T., Commane, R., Prather, M.J., Anderson, D.C., Correa, G., Duncan, B.N., Follette-Cook, M., Westervelt, D.M., Bourgeois, I., Brune, W.H., Bui, T.P., DiGangi, J.P., Diskin, G.S., Hall, S.R., McKain, K., Miller, D.O., Peischl, J., **Thames, A.B.**, Thompson, C.R., Ullmann, K., and Wofsy, S.C.  
